@@ -109,15 +109,7 @@ def save_qualifying_loans(qualifying_loans):
         qualifying_loans (list of lists): The qualifying bank loans.
     """
     # @TODO: Complete the usability dialog for savings the CSV Files.
-    questionary.text("Would you like to save your data?").ask
-    if not sys.exit
-    else
-        with open(output_path, "w", newline="") as csvfile:
-        csvwriter = csv.writer(csvfile)
-        csvwriter.writerow(header)
-        for loan in qualifying_loans:
-        csvwriter.writerow(loan.values()
-
+    
 
 def run():
     """The main function for running the script."""
