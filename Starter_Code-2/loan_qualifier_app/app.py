@@ -6,23 +6,32 @@ This is a command line application to match applicants with qualifying loans.
 Example:
     $ python app.py
 """
+# Import Sys, Fire, Questionary, and Path
+
 import sys
 import fire
 import questionary
 from pathlib import Path
 
+# Import load csv and calculator functions from utils folder
+
 from qualifier.utils.fileio import load_csv
+from qualifier.utils.fileio import save_csv
 
 from qualifier.utils.calculators import (
     calculate_monthly_debt_ratio,
     calculate_loan_to_value_ratio,
 )
 
+# Import filters from qualifier folder
+
 from qualifier.filters.max_loan_size import filter_max_loan_size
 from qualifier.filters.credit_score import filter_credit_score
 from qualifier.filters.debt_to_income import filter_debt_to_income
 from qualifier.filters.loan_to_value import filter_loan_to_value
 
+
+# Create a function to load CSV from the data folder
 
 def load_bank_data():
     """Ask for the file path to the latest banking data and load the CSV file.
@@ -38,6 +47,8 @@ def load_bank_data():
 
     return load_csv(csvpath)
 
+
+# Define get_applicant_info function to collect neccesary data from the user
 
 def get_applicant_info():
     """Prompt dialog to get the applicant's financial information.
@@ -61,6 +72,8 @@ def get_applicant_info():
     return credit_score, debt, income, loan_amount, home_value
 
 
+# Define find_qualifying_loan function to iterate through relvant data and match the user to petential lenders
+
 def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_value):
     """Determine which loans the user qualifies for.
 
@@ -82,6 +95,7 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
         A list of the banks willing to underwrite the loan.
 
     """
+    
 
     # Calculate the monthly debt ratio
     monthly_debt_ratio = calculate_monthly_debt_ratio(debt, income)
@@ -100,7 +114,10 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
     print(f"Found {len(bank_data_filtered)} qualifying loans")
 
     return bank_data_filtered
+ 
 
+
+# Define a function to save the filtered data to a new CSV file
 
 def save_qualifying_loans(qualifying_loans):
     """Saves the qualifying loans to a CSV file.
@@ -109,7 +126,15 @@ def save_qualifying_loans(qualifying_loans):
         qualifying_loans (list of lists): The qualifying bank loans.
     """
     # @TODO: Complete the usability dialog for savings the CSV Files.
+    save = questionary.confirmation("Would you like to save your data?").ask()
     
+    if save:
+        csvpath = questionary.text("Please enter a file path to save your data.").ask()
+        cvspath = Path(cvspath)
+        
+        return save_csv(path, qualifying_loans)
+   
+ # run the script   
 
 def run():
     """The main function for running the script."""
