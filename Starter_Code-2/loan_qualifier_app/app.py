@@ -130,7 +130,7 @@ def save_qualifying_loans(qualifying_loans):
     
     if save:
         csvpath = questionary.text("Please enter a file path to save your data.").ask()
-        cvspath = Path(cvspath)
+        csvpath = Path(csvpath)
         
         return save_csv(path, qualifying_loans)
    
