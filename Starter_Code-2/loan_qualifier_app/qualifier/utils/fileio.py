@@ -4,13 +4,11 @@
 This contains a helper function for loading and saving CSV files.
 
 """
+# import csv function
+
 import csv
-# from pathlib import Path
-# from loan_qualifier_app import filtered_data
 
-# header = ["Lender", "Max Loan Amount", "Max LTV", "Max DTI", "Min Credit Score", "Interest Rate"]
-
-# output_path = Path("../data/qualifying_loans.csv")
+# Define functions to load and write csv files 
 
 def load_csv(csvpath):
     """Reads the CSV file from path provided.
@@ -34,22 +32,11 @@ def load_csv(csvpath):
             data.append(row)
     return data
 
-# def save_csv(csvpath):
-#     """Saves a new CSV file containing the filtered data.
-    
-#     Args:
-#         csvpath (Path): The csv file path, 
-    
-#     Returns: 
-#         the new csv file.
-#     """
-#     with open(output_path, "w", newline="") as csvfile:
-#         csvwriter = csv.writer(csvfile)
-#     csvwriter.writerow(header)
-#     for data in filtered_dataS:
-#         csvwriter.writerow(loan.values()
+# Set a value for the header variable within the save_csv function 
+
+header = ["Lender", "Max Loan Amount", "Max LTV", "Max DTI", "Min Credit Score", "Interest Rate"]
                        
-def save_csv(csvpath, data, header=None):
+def save_csv(csvpath, data, header=header):
     """Saves the CSV file from path provided.
 
     Args:

@@ -116,7 +116,6 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
     return bank_data_filtered
  
 
-
 # Define a function to save the filtered data to a new CSV file
 
 def save_qualifying_loans(qualifying_loans):
