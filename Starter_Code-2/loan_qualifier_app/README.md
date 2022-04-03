@@ -1,6 +1,6 @@
 # Loan Qualifier Application
 
-![Python logo](/Users/matthewfield/desktop/fintech-workspace/fintech-challenges/Module_2_Challenge/images/header_image.jpg)
+![Python logo](images/header_image.jpg)
 
 This is a command line application to match applicants with qualifying loans.
 ---
