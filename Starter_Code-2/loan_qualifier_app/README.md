@@ -1,33 +1,72 @@
-# Project Title
+# Loan Qualifier Application
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+![Python logo](images/header_image.jpg)
 
+This is a command line application to match applicants with qualifying loans.
 ---
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+This app leverages Python 3.7 with the following packages: 
+
+* [fire](https://github.com/google/python-fire) - For the command line interface, help page, and entry-point.
+
+* [questionary](https://github.com/tmbo/questionary) - For interactive user prompts and dialogs
+
+* [pathlib](https://github.com/jazzband/pathlib2) - For file manipulation. 
 
 ---
 
 ## Installation Guide
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
+1. Clone the repo
+
+![cloning image](images/cloning.jpg)
+
+2. Before running the application first install the following dependencies:
+
+'''python
+  pip install fire
+  pip install questionary
+  pip install pathlib
+'''
+![Installation image](images/install_image.jpg)
 
 ---
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+1. To use the Loan Qualifier simply open the loan_qualifier_app folder within the Starter_Code-2 folder of the repository and run the. ***app.py*** file. 
+
+'''python app.py
+'''
+
+![Usage image](images/usage.jpg)
+
+2. Upon launching the loan qualifier application you will be greeted with the following prompt asking for a file path to the data you wish to use: 
+
+![first prompt](images/usage.jpg)
+
+3. Once the application has loaded the data, it will prompt the user to enter their personal data. 
+
+4. The application will then return the user's DTI and LTV ratios and with the number of potential lenders that they matched with along with a prompt to save the returned data to a new CSV file. 
+
+![Matches and saving](images/output.jpg)
+
+5. If the user opts to save the new data, a CSV file containing their potential lenders will be generated to the file path they provide. 
+
+![csv image](images/csv.jpg)
 
 ---
 
 ## Contributors
 
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
+The starter code was contributed by the [FinTech Bootcamp at Columbia Engineering](https://bootcamp.cvn.columbia.edu/fintech/)
+
+Matthew Field finalized the application, his work is availble to view on [Github](https://github.com/mbf2139)
 
 ---
 
 ## License
 
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
+MIT
