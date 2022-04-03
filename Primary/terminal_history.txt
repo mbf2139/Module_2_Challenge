@@ -1,0 +1,772 @@
+   50  git commit - "test add"
+   51  git commit -m "test add"
+   52  git add -A
+   53  git commit -m "test add2"
+   54  git push origin branch
+   55  git checkout branch
+   56  git checkout main
+   57  git pull
+   58  conda activate dev
+   59  cd ..
+   60  jupiter lab
+   61  jupyter lab
+   62  conda deactivate
+   63  jupyter lab
+   64  conda deactivate
+   65  conda activate dev
+   66  conda deactivate
+   67  conda update conda
+   68  conda create -n dev python=3.7 anaconda
+   69  pwd
+   70  ls
+   71  cd desktop
+   72  ls
+   73  mkdir FinTech Workspace
+   74  ls
+   75  cd Fintech Workspace
+   76  mkdir FinTech-Workspace
+   77  cd FinTech-Workspace
+   78  ls
+   79  cd ..
+   80  cd ~
+   81  cd desktop
+   82  cd FinTech-Workspace
+   83  cd Python_Project
+   84  ls
+   85  conda activate dev
+   86  python --version
+   87  code .
+   88  code .
+   89  code-
+   90  cd desktop
+   91  cd FinTech-Workspace
+   92  cd Python_Project
+   93  ls
+   94  conda activate dev
+   95  python --version
+   96  code .
+   97  python hello_python.py
+   98  conda deactivate
+   99  ln -s "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/code" /usr/local/bin/code
+  100  code .
+  101  code
+  102  code.
+  103  u
+  104  cd ..
+  105  cd ~
+  106  - nano ~/.zshrc
+  107  /Users/matthewfield/opt/anaconda3/bin/jupyter_mac.command ; exit;
+  108  cd desktop
+  109  cd FinTech-WorkSpace
+  110  cd python_project
+  111  ls
+  112  code .
+  113  cd ..
+  114  ls
+  115  cd ..
+  116  cd FinTech-Workspace
+  117  cd hello_variable_world
+  118  pwd
+  119  ls
+  120  cd python_project
+  121  print(original_price)
+  122  ls
+  123  ls
+  124  conda activate dev
+  125  python hello_variable_world.py
+  126  conda deactivate
+  127  cd ..
+  128  cd ..
+  129  git pull
+  130  cd ..
+  131  git clone git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
+  132  cd desktop
+  133  git clone git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
+  134  cd test
+  135  git clone git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
+  136  conda activate dev
+  137  jupyter lab
+  138  conda deactivate
+  139  import pathlib
+  140  cd fintech_workspace
+  141  pwd
+  142  cd desktop
+  143  cd fintech_workspace
+  144  cd fintech-workspace
+  145  cd python_project
+  146  pwd
+  147  conda activate dev
+  148  python racking_up_the_profits.py
+  149  python racking_up_the_profit.py
+  150  python pathways_to_success_part_2.py
+  151  conda deativate
+  152  conda deactivate
+  153  cd ..
+  154  conda create --py3.9
+  155  conda create --name py39
+  156  conda update conda
+  157  conda create --name py39
+  158  conda activate py39
+  159  cd python_project
+  160  python automated_equity_rounds.py
+  161  conda activate dev
+  162  python automated_equity_rounds.py
+  163  ls
+  164  ls ~\.ssh
+  165  ls ~/.ssh
+  166  pbcopy < ~/.ssh
+  167  pbcopy < ~/.ssh/id_rsa.pub
+  168  cd fintech-workspace
+  169  cd 
+  170  conda deactivate
+  171  ls
+  172  cd desktop
+  173  ls
+  174  cd Fintech-Workspace
+  175  ls
+  176  git clone git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
+  177  ls
+  178  cd CU-VIRT-FIN-PT-03-2022-U-B
+  179  open .
+  180  conda deativate
+  181  conda deactivate
+  182  cd ..
+  183  conda activate dev
+  184  jupyter lab
+  185  ls
+  186  cd CU-VIRT-FIN-PT-03-2022-U-B
+  187  git pull
+  188  conda deactivate
+  189  ls
+  190  open 01-Financial-Programming-Python
+  191  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  192  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py
+  193  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py
+  194  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py
+  195  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py
+  196  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py
+  197  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py
+  198  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py
+  199  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py
+  200  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py
+  201  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py
+  202  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py
+  203  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/qualifier/utils/fileio.py
+  204  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py
+  205  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/qualifier/utils/calculator.py
+  206  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py
+  207  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py
+  208  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py
+  209  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py
+  210  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Module_2/02_Loan_Qualifier_Filtering_Data/Solved/app.py
+  211  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Module_2/02_Loan_Qualifier_Filtering_Data/Solved/app.py
+  212  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py
+  213   /usr/bin/env /usr/bin/python3 /Users/matthewfield/.vscode/extensions/ms-python.python-2022.2.1924087327/pythonFiles/lib/python/debugpy/launcher 53649 -- /Users/matthewfield/Desktop/FinTech-Workspace/Module_2/02_Loan_Qualifier_Filtering_Data/Solved/app.py 
+  214   /usr/bin/env /usr/bin/python3 /Users/matthewfield/.vscode/extensions/ms-python.python-2022.2.1924087327/pythonFiles/lib/python/debugpy/launcher 53669 -- /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py 
+  215   /usr/bin/env /usr/bin/python3 /Users/matthewfield/.vscode/extensions/ms-python.python-2022.2.1924087327/pythonFiles/lib/python/debugpy/launcher 53931 -- /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py 
+  216   /usr/bin/env /usr/bin/python3 /Users/matthewfield/.vscode/extensions/ms-python.python-2022.2.1924087327/pythonFiles/lib/python/debugpy/launcher 53942 -- /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py 
+  217   /usr/bin/env /usr/bin/python3 /Users/matthewfield/.vscode/extensions/ms-python.python-2022.2.1924087327/pythonFiles/lib/python/debugpy/launcher 54798 -- /Users/matthewfield/Desktop/FinTech-Workspace/Module_2/02_Loan_Qualifier_Filtering_Data/Solved/app.py 
+  218  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py
+  219  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py
+  220  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py
+  221  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py
+  222  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py
+  223  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py
+  224  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py
+  225  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py
+  226  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py
+  227  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py
+  228  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py
+  229  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py
+  230  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Class_Folder/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  231  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Class_Folder/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  232  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Class_Folder/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Solved/atm.py
+  233  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/cli_test.py
+  234  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/qualifier/cli.py
+  235  conda run -n dev --no-capture-output --live-stream python /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/cli.py
+  236  conda run -n dev --no-capture-output --live-stream python /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/cli.py
+  237  conda activate dev
+  238  python cli.py --pants=True
+  239  source /Users/matthewfield/opt/anaconda3/bin/activate
+  240  conda activate dev
+  241  conda run -n dev --no-capture-output --live-stream python /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py
+  242  conda run -n dev --no-capture-output --live-stream python /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py
+  243  source /Users/matthewfield/opt/anaconda3/bin/activate
+  244  conda activate dev
+  245  conda run -n dev --no-capture-output --live-stream python /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py
+  246  source /Users/matthewfield/opt/anaconda3/bin/activate
+  247  conda activate dev
+  248  conda run -n dev --no-capture-output --live-stream python /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py
+  249  source /Users/matthewfield/opt/anaconda3/bin/activate
+  250  conda activate dev
+  251  conda run -n dev --no-capture-output --live-stream python /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py
+  252  source /Users/matthewfield/opt/anaconda3/bin/activate
+  253  conda activate dev
+  254  conda run -n dev --no-capture-output --live-stream python /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/app.py
+  255  source /Users/matthewfield/opt/anaconda3/bin/activate
+  256  conda activate dev
+  257  conda run -n dev --no-capture-output --live-stream python /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/my_app.py
+  258  source /Users/matthewfield/opt/anaconda3/bin/activate
+  259  conda activate atmdev
+  260  conda run -n atmdev --no-capture-output --live-stream python /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/atm.py
+  261  source /Users/matthewfield/opt/anaconda3/bin/activate
+  262  conda activate atmdev
+  263  conda run -n atmdev --no-capture-output --live-stream python /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/atm.py
+  264  source /Users/matthewfield/opt/anaconda3/bin/activate
+  265  conda activate atmdev
+  266  conda run -n atmdev --no-capture-output --live-stream python /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/atm.py
+  267  python atm.py
+  268  pwd
+  269  cd fintech-worskpace
+  270  ls
+  271  cd desktop
+  272  ls
+  273  cd fintech-workspace
+  274  ls
+  275  cd module 2
+  276  cd module-2
+  277  cd Module 2
+  278  cd module2
+  279  ls
+  280  cd module_2
+  281  cd ..
+  282  conda activate dev
+  283  pip -V
+  284  pip freeze
+  285  pip intall fire
+  286  pip install fire
+  287  pip install questionary
+  288  ls
+  289  cd module_2
+  290  ls
+  291  cd
+  292  ls
+  293  cd desktop
+  294  cd fintech-workspace
+  295  cd module_2
+  296  cd 02_Loan_Qualifier_Filtering_Data
+  297  ls
+  298  cd unsolved
+  299  ls
+  300  cd data
+  301  path
+  302  pwd
+  303  conda deactivate
+  304  cd ..
+  305  cd ..
+  306  cd ..
+  307  cd ..
+  308  conda activate dev
+  309  python app.py
+  310  cd python_project
+  311  python app.py
+  312  ls
+  313  cd ..
+  314  ls
+  315  cd module_2
+  316  ls
+  317  cd Loan_Qualifier_Filtering_Data
+  318  cd 02_Loan_Qualifier_Filtering_Data
+  319  ls
+  320  cd unsolved
+  321  ls
+  322  cd data
+  323  ls
+  324  path
+  325  pwd
+  326  cd
+  327  conda deactivate
+  328  cd desktop
+  329  cd fintech-workspace
+  330  ls
+  331  cd class_folder
+  332  ls
+  333  cd 01-Financial-Programming-Python
+  334  git pull
+  335  ls
+  336  cd 2
+  337  ls
+  338  cd activities
+  339  ls
+  340  open .
+  341  open 02_Stu_Terminal_Gitbash
+  342  cd ..
+  343  pwd
+  344  open .
+  345  ls
+  346  cd activities
+  347  ls
+  348  git pull
+  349  cd ..
+  350  cd ..
+  351  cd ..
+  352  cd ..
+  353  conda activate dev
+  354  pwd
+  355  ls
+  356  cd python_project
+  357  ls
+  358  cd ..
+  359  mkdir loan_application
+  360  ls 
+  361  touch fintech-file.txt
+  362  ls
+  363  rm fintech-file.txt
+  364  ls
+  365  cd ..
+  366  ls
+  367  cd fintech-workspace
+  368  pip install fire
+  369  cd python_project
+  370  ls
+  371  cd cli_test.py
+  372  import fire
+  373  python cli_test.py
+  374  import fire
+  375  pip install fire install fire
+  376  conda deactivate
+  377  pip install fire
+  378  conda activate dev
+  379  python cli.py
+  380  conda deactivate
+  381  conda activate py3
+  382  conda info --envs
+  383  conda activate py39
+  384  pip install fire
+  385  conda deactivate 
+  386  conda activate dev
+  387  python cli.py --pants=True
+  388  python cli.py --pants=True
+  389  cd ..
+  390  cd ..
+  391  cd downloads
+  392  ls
+  393  cd ..
+  394  ls
+  395  cd downloads
+  396  ls
+  397  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  398  ls
+  399  cd unsolved
+  400  ls
+  401  cd data
+  402  ls
+  403  cd daily_rate_sheet.csv
+  404  pwd
+  405  cd
+  406  cd desktop
+  407  cd fintech-workspace
+  408  cd python_project
+  409  python app.py --credit_score=750
+  410  python app.py --credit_score=750 --debt=5000 --income=20000
+  411  python dialog.py
+  412  python dialog.py
+  413  python dialog.py
+  414  python app.py
+  415  python app.py --credit_score=750 --debt=5000 --income=100000
+  416  python app.py
+  417  conda deactivate
+  418  cd ..
+  419  git config --list
+  420  git config --global user.name Matthew Field
+  421  git config --global user.email mbf2139@columbia.edu
+  422  git config --list
+  423  git clone git@github.com:mbf2139/Test_Repo.git
+  424  git status
+  425  git status
+  426  cd python_project
+  427  git status
+  428  cd ..
+  429  ls
+  430  cd test_repo
+  431  ls
+  432  git status
+  433  git add README.md
+  434  git status
+  435  touch test_file
+  436  ls
+  437  git status
+  438  git add test_file
+  439  git status
+  440  git commit -m "edited readme and added a new text file"
+  441  git status
+  442  git push
+  443  conda activate py39
+  444  conda install pypi
+  445  pip install fire
+  446  conda install fire
+  447  conda install questionary
+  448  conda install pandas
+  449  conda activate dev
+  450  cd ..
+  451  cf python_project
+  452  cd python_project
+  453  python app.py
+  454  conda activate py29
+  455  conda activate py39
+  456  python app.py
+  457  conda activate dev
+  458  python app.py
+  459  ls
+  460  cd ..
+  461  ls
+  462  cd class_folder
+  463  git pull
+  464  conda deactivate
+  465  donda deactivate
+  466  conda deactivate
+  467  conda --envs
+  468  conda info --envs
+  469  conda create -n atmdev python=3.7 anaconda
+  470  conda activate atmdev
+  471  conda info --envs
+  472  cd ..
+  473  cd python_project
+  474  pip install fire==0.3.1
+  475  pip install questionary==1.5.2
+  476  pip list
+  477  conda deactivate
+  478  conda activate py39
+  479  pip list
+  480  conda deactivate
+  481  conda activate atmdev
+  482  pip install pytest==5.4.2
+  483  python atm.py
+  484  python atm.py
+  485  python atm.py
+  486  python atm.py
+  487  python atm.py
+  488  python atm.py
+  489  cd ..
+  490  git clone git@github.com:mbf2139/challeng1.git
+  491  cd challeng1
+  492  touch text.txt
+  493  ls
+  494  git status
+  495  git add -A
+  496  git status
+  497  git commit -m"added text file"
+  498  git push
+  499  conda deactivate
+  500  cd ..
+  501  conda activate py39
+  502  conda install python==3.7 anaconda
+  503  conda deactivate conda
+  504  conda deativate
+  505  conda deactivate
+  506  conda remove -n py39
+  507  conda env remove -n py39
+  508  conda envs list
+  509  conda env list
+  510  conda activate atm dev
+  511  conda activate atmdev
+  512  python atm.py
+  513  cd python_project
+  514  python atm.py
+  515  conda ..
+  516  cd..
+  517  cd ..
+  518  conda deactivate
+  519  cd ..
+  520  cd fintech-workspace
+  521  mkdir notes
+  522  ls
+  523  cd notes
+  524  cd ..
+  525  cd ..
+  526  mkdir fintech-challenges
+  527  ls
+  528  cd fintech-challenges
+  529  ls
+  530  ls
+  531  cd ..
+  532  cd fintech-challenges
+  533  mkdir module_1_challenge
+  534  ls
+  535  ch module_1_challenge
+  536  cd module_1_challenge
+  537  pwd
+  538  cd ../..
+  539  cd downloads
+  540  ls
+  541  cd ..
+  542  ls
+  543  cd downloads
+  544  cd starter_code
+  545  ls
+  546  pwd
+  547  cd../..
+  548  cd ../..
+  549  mv /Users/matthewfield/downloads/starter_code/loan_analyzer.py ~//Users/matthewfield/desktop/fintech-challenges/module_1_challenge/loan_analyzer.py
+  550  cd desktop
+  551  cd fintech-workspace
+  552  cd fintech-challenges
+  553  ls
+  554  cd module_1_challenge
+  555  git clone git@github.com:mbf2139/Module_1_Challenge.git
+  556  git status
+  557  ls
+  558  cd Module_1_Challenge
+  559  git status
+  560  git add loan_analyzer.py
+  561  git status
+  562  git commit
+  563  cd desktop
+  564  cd fintech-workspace
+  565  cd fintech-challenges
+  566  cd Module_1_Challenge
+  567  git status
+  568  echo.DS_Store >>~/.gitignore_global
+  569  cd ..
+  570  cd fintech_workspace
+  571  cd fintech_workspace
+  572  cd fintech-workspace
+  573  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  574  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  575  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  576  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  577  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  578  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  579  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  580  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  581  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  582  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  583  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  584  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  585  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  586  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  587  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  588  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  589  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  590  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  591  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  592  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  593  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  594  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  595  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  596  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  597  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  598  conda run -n atmdev --no-capture-output --live-stream python /Users/matthewfield/Desktop/FinTech-Workspace/Python_Project/automated_equity_rounds.py
+  599  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  600  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  601  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  602  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  603  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  604  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  605  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  606  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  607  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  608  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  609  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  610  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  611  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  612  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  613  /usr/bin/python3 /Users/matthewfield/Desktop/FinTech-Workspace/fintech-challenges/Module_1_Challenge/loan_analyzer.py
+  614  ls
+  615  git status
+  616  git status
+  617  conda list pandas
+  618  cd ..
+  619  cd ..
+  620  cd ..
+  621  git pull
+  622  cd pandas
+  623  git status
+  624  git ass -A
+  625  git add -A
+  626  git status
+  627  git commit -m "initial work for module 3.3"
+  628  git push
+  629  git status
+  630  git add -A
+  631  git commit -m "added rowing for yield activity"
+  632  git push
+  633  git status
+  634  git add -A
+  635  git commit -m "added usa yields analysis"
+  636  git push
+  637  mkdir note_pdfs
+  638  cd ..
+  639  mkdir Renar_Internship_2022
+  640  cd Renar_Internship_2022
+  641  mkdir Jensen_Beach_Golf_Club_Deal
+  642  cd ../..
+  643  cd desktop
+  644  mkdir About_Me
+  645  cd About_Me
+  646  mkdire medical_docs
+  647  mkdir medical_docs
+  648  mkdir travel_docs
+  649  mkdir job_app_docs
+  650  mkdir financials
+  651  mkdir education_docs
+  652  cd education_docs
+  653  mkdir Columbia_GS
+  654  mkdir Columbia_engineering
+  655  mkdir real_estate
+  656  cd ../..
+  657  ls
+  658  cd Renar_Internship_2022
+  659  mkdir Morningside
+  660  ls
+  661  cd../..
+  662  cd ../..
+  663  cd desktop
+  664  cd fintech-workspace
+  665  ls
+  666  ls
+  667  cd Pandas
+  668  ls
+  669  git status
+  670  git add -A
+  671  git status
+  672  git commit -m "banking bonanza and module 3 homework file added"
+  673  git push
+  674  git status
+  675  git ass -A
+  676  git add -A
+  677  git status
+  678  git commit -m "added contruction to close times dataframe"
+  679  git push
+  680  ls
+  681  cd Starter_Code_2
+  682  cd Starter_Code-2
+  683  ls
+  684  cd loan_qualifier_app
+  685  ls
+  686  python app.ipynb
+  687  python app.py
+  688  conda activate dev
+  689  python app.ipynb
+  690  python app.py
+  691  pyhton app.py
+  692  python app.py
+  693  python app.py
+  694  git status
+  695  git add -A
+  696  git commit -m "Added a Jupyter Notebook version of the file"
+  697  git pus
+  698  git push
+  699  python app.py
+  700  python app.py
+  701  python app.py
+  702  git status
+  703  git add -A
+  704  git status
+  705  git commit -m "added save csv function, not yet fully functional"
+  706  git status
+  707  ;s
+  708  ls
+  709  cd fintech-challenges
+  710  ls
+  711  cd Module_2_Challenge
+  712  git status
+  713  git add -A
+  714  git status
+  715  git commit -m "added save csv funtion to fileio file in utils folder"
+  716  git push
+  717  git status
+  718  git push
+  719  git status
+  720  git add -A
+  721  git commit -m "fixed unexpected EOF while parsing, save csv function still not working"
+  722  conda activate dev
+  723  python app.ipynb
+  724  ls
+  725  cd starter_code-2
+  726  ls
+  727  cd loan_qualifier_app
+  728  ls
+  729  python app.ipynb
+  730  python app.py
+  731  git status
+  732  git add -A
+  733  git status
+  734  git commit -m "fixed save csv function in utils folder and updated app.py file with most recent code"
+  735  git push
+  736  git status
+  737  git add -A
+  738  git commit -m "updated user dialog in save qualifying loans function"
+  739  git push
+  740  git status
+  741  git add -A
+  742  git commit -m "updated save qualifying loans function"
+  743  git push
+  744  python app.py
+  745  python app.py
+  746  git status
+  747  git add -A
+  748  git commit -m "fixed error in save qualifying loans function"
+  749  git push
+  750  python app.py
+  751  git status
+  752  git add -A
+  753  git commit -m "fixed error in save qualifying loans function"
+  754  git push
+  755  python app.py
+  756  python app.py
+  757  git status
+  758  git commit -m "added header variable for save csv function and repaired an error in save qualifying loans function"
+  759  git add -A
+  760  git status
+  761  git commit -m "added header variable for save csv function and repaired an error in save qualifying loans function"
+  762  git push
+  763  git status
+  764  git add -A
+  765  git commit -m "updated app.ipynb file to reflect changes to app.py file"
+  766  git push
+  767  conda activate dev
+  768  pip install pathlib
+  769  pip install fire
+  770  pip install questionary
+  771  ls
+  772  mkdir images
+  773  python app.py
+  774  ls
+  775  cd Starter_code-2
+  776  ps
+  777  ls
+  778  cd loan_qualifier_app
+  779  ls
+  780  python app.py
+  781  python app.py
+  782  git status
+  783  git add READme.md
+  784  git status
+  785  git add ../../images/
+  786  git status
+  787  git add README.md
+  788  git status
+  789  git commit -m "modified README file and added related images folder"
+  790  git status
+  791  git add -A
+  792  git status
+  793  git commit -m "added the CSV file created from a test run of the app.py file"
+  794  git push
+  795  cd ../..
+  796  cd ../..
+  797  cd ..
+  798  cd fintech-workspace
+  799  cd Module_2_challenge
+  800  cd Module_2_Challenge
+  801  ls
+  802  cd fintech-challenges
+  803  ls
+  804  cd Module_2_Challenge
+  805  ls
+  806  cd images
+  807  ls
+  808  pwd
+  809  git status
+  810  git add -A
+  811  git status
+  812  git commit -m "updated readme to correct image error"
+  813  git oush
+  814  git oush
+  815  git push
+  816  git status
+  817  git add -A
+  818  git commit -m "edited readme image formatting"
+  819  git push
+  820  cd ../..
+  821  cd ..

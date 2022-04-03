@@ -36,7 +36,7 @@ This app leverages Python 3.7 with the following packages:
 
 ## Usage
 
-1. To use the Loan Qualifier simply open the loan_qualifier_app folder within the Starter_Code-2 folder of the repository and run the. ***app.py*** file. 
+1. To use the Loan Qualifier simply open the loan_qualifier_app folder within the Primary folder of the repository and run the. ***app.py*** file. 
 
 '''python app.py
 '''
